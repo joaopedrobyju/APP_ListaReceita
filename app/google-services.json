@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641833674918",
+    "project_id": "lista-de-receitas-852f7",
+    "storage_bucket": "lista-de-receitas-852f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641833674918:android:dadec546604564f58d6c67",
+        "android_client_info": {
+          "package_name": "com.joao.mendes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQf-yrudarIwxyXh9SWcTcKWst6ExCNas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
